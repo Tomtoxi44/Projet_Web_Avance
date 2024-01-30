@@ -7,6 +7,9 @@
 .sukui-h1 {
     @apply text-slate-900 text-5xl font-extrabold
 }
+.sukui-h1-white {
+    @apply text-white text-5xl font-extrabold
+}
 
 .sukui-h2 {
     @apply text-slate-800 text-4xl font-extrabold
@@ -18,6 +21,9 @@
 
 .sukui-p {
     @apply text-slate-600 text-lg
+}
+.sukui-p-white {
+    @apply text-white text-lg
 }
 
 .sukui-button {
