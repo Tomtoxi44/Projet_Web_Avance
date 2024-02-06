@@ -8,7 +8,7 @@
     @apply text-slate-900 text-5xl font-extrabold
 }
 .sukui-h1-white {
-    @apply text-white text-5xl font-extrabold
+    @apply text-white text-4xl font-normal
 }
 
 .sukui-h2 {
