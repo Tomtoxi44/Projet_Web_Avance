@@ -20,6 +20,10 @@
     @apply text-slate-600 text-lg
 }
 
+.sukui-link {
+    @apply text-[#8a8a8a] hover:text-[#e5e5e3] duration-300 text-lg tracking-tight font-medium
+}
+
 .sukui-button {
     @apply bg-slate-900 text-slate-100 py-3 px-5 rounded-lg font-semibold duration-500;
 }
