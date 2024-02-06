@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
-import HomePage from "../03.globals/01.Pages/HomePage";
+import SpaPage from "../03.globals/01.Pages/SpaPage";
 
 
 function Router() {
     return (
         <Routes>
-            <Route path="/" element={<HomePage />} />
+            <Route path="/" element={<SpaPage />} />
         </Routes>
     )
 }
